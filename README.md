@@ -46,7 +46,6 @@ The roadmap and milestones are in [docs/PROJECT_PLAN.md](docs/PROJECT_PLAN.md). 
 
 | Document | Purpose |
 |----------|---------|
-| [docs/CRITIQUE.md](docs/CRITIQUE.md) | Senior review of the original brief and design decisions |
 | [docs/PRD.md](docs/PRD.md) | Requirements, scope, acceptance criteria |
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Layers, tools, grain, identity, time, currency |
 | [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) | Every table and column, source to mart |
